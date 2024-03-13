@@ -1,0 +1,630 @@
+1) Welcome to Elevator Simulation!
+Enter the number of floors: 4
+Enter the maximum passengers per trip: 5
+Enter the simulation duration in minutes: 10
+Enter the elevator movement time between floors in seconds: 5
+Enter the passenger exit wait time in seconds: 3
+Initializing elevator system...
+Number of floors: 4
+Maximum passengers per trip: 5
+Simulation duration: 10 minutes
+Elevator movement time between floors: 5 seconds
+Passenger exit wait time: 3 seconds
+Simulating passenger calls...
+Passenger called elevator from floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+
+Analysis:
+Frequency of calls from each floor:
+Floor 1: 25 calls
+Floor 2: 27 calls
+Floor 3: 20 calls
+Floor 4: 20 calls
+Frequency of getting out from elevator from each floor:
+Floor 1: 22 exits
+Floor 2: 20 exits
+Floor 3: 26 exits
+Floor 4: 24 exits
+Total time needed for all calls: 19.15 minutes
+The amount of passengers: 92
+
+Simulation completed.
+Thank you for using Elevator Simulation!
+
+
+
+2) Welcome to Elevator Simulation!
+Enter the number of floors: 3
+Enter the maximum passengers per trip: 4
+Enter the simulation duration in minutes: 5
+Enter the elevator movement time between floors in seconds: 5
+Enter the passenger exit wait time in seconds: 3
+Initializing elevator system...
+Number of floors: 3
+Maximum passengers per trip: 4
+Simulation duration: 5 minutes
+Elevator movement time between floors: 5 seconds
+Passenger exit wait time: 3 seconds
+Simulating passenger calls...
+Passenger called elevator from floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+
+Analysis:
+Frequency of calls from each floor:
+Floor 1: 31 calls
+Floor 2: 37 calls
+Floor 3: 25 calls
+Frequency of getting out from elevator from each floor:
+Floor 1: 30 exits
+Floor 2: 34 exits
+Floor 3: 29 exits
+Total time needed for all calls: 14.25 minutes
+The amount of passengers: 93
+
+
+
+
+3) Welcome to Elevator Simulation!
+Enter the number of floors: 4
+Enter the maximum passengers per trip: 3
+Enter the simulation duration in minutes: 7
+Enter the elevator movement time between floors in seconds: 4
+Enter the passenger exit wait time in seconds: 2
+Initializing elevator system...
+Number of floors: 4
+Maximum passengers per trip: 3
+Simulation duration: 7 minutes
+Elevator movement time between floors: 4 seconds
+Passenger exit wait time: 2 seconds
+Simulating passenger calls...
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 2.
+Passenger called elevator from floor 3.
+Passenger exited elevator at floor 1.
+Passenger called elevator from floor 2.
+Passenger exited elevator at floor 3.
+Passenger called elevator from floor 1.
+Passenger exited elevator at floor 4.
+Passenger called elevator from floor 4.
+Passenger exited elevator at floor 4.
+
+Analysis:
+Frequency of calls from each floor:
+Floor 1: 21 calls
+Floor 2: 23 calls
+Floor 3: 22 calls
+Floor 4: 21 calls
+Frequency of getting out from elevator from each floor:
+Floor 1: 21 exits
+Floor 2: 21 exits
+Floor 3: 18 exits
+Floor 4: 27 exits
+Total time needed for all calls: 12.9 minutes
+The amount of passengers: 87
