@@ -1,3 +1,4 @@
+# Elevator Simulator
 The project is written in C++, using STL containers such as queue, to handle the logic with passengers, and vector, to handle the logic calling elevator and moving between floors.
 For generating passenger on floors I used simple random functionality.
 
