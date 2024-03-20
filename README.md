@@ -1,5 +1,25 @@
-This is elevator simulation. The project was written in C++. 
-I used STL containers such as queue, to handle the logic with passengers, and vector, to handle the logic calling elevator and moving it between floors.
-For generating passenger on floors I used simple random functionality.
+# Elevator Simulator
+The project utilizes C++ and employs STL containers like queue to manage passenger logic and vector to handle elevator calls and floor transitions. Simple random functionality is employed to generate passengers on floors.
 
-The programm shows such things as calling elevator from some floors, exiting it at some floors, frequency of calls from each floor, frequency of exiting from elevator from each floor, total time needed for all calls and the amount of passengers.
+The program displays various aspects such as elevator calls from different floors, passenger exits at specific floors, call frequency from each floor, exit frequency from the elevator on each floor, total time required for all calls, and the total number of passengers.
+
+## Requirements
+- C++ compiler
+- make
+
+## Getting Started
+1. Clone the repository
+```Bash
+git clone git@github.com:Emirkeenz/elevator_simulator.git
+cd elevator_simulator
+```
+
+2. Build the project using the Makefile
+```Bash
+make
+```
+
+3. Run the executable
+```bash
+./main
+```
