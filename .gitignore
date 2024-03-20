@@ -1,0 +1,42 @@
+# Compiled files
+*.o
+*.out
+*.exe
+main
+
+# Object files and libraries
+*.obj
+*.a
+*.lib
+
+# Precompiled headers
+*.pch
+
+# Generated files
+*_pb2.py
+*_pb2.pyi
+*_grpc.py
+*_grpc.pyi
+
+# Build directories
+build/
+bin/
+cmake-build*/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Dependency directories
+vendor/
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
